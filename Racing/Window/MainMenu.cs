@@ -42,7 +42,7 @@ namespace Racing.Window
             buttonSample.PlaySync();
             О_программе info = new О_программе();
             this.Hide();
-            info.ShowDialog();
+            info.ShowDialog(); 
             this.Show();
            
         }
